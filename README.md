@@ -15,5 +15,3 @@ The Django Girls organization offers an awesome walkthrough of creating a simpli
     (If you do it the way we do in class, you will use `pipenv` instead of `virtualenv` and `pipenv install` instead of `pip install`.)
 
 8. SKIP the _Deploy!_ section. This uses a service called PythonAnywhere to deploy your code. We'll learn about deploying later in the course. You also do not need to do any of the Git steps in this section. Just do your usual routine of adding, committing, and pushing code to _this_ repo.
-
-
